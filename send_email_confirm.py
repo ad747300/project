@@ -2,7 +2,6 @@ import smtplib
 import string  
 import random 
 import sys 
-import json
 import mysql.connector
 
 def insert_data(email,password):
